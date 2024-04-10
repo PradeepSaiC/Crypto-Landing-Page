@@ -19,4 +19,4 @@
 ![output img](./screenshot/image.png)  
 
 ### Time taken: 3 hours
-### Live Link - 
+### Live Link - [Link](https://crypto-landing-page-delta-six.vercel.app/)
